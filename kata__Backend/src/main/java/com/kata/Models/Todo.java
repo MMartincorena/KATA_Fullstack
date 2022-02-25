@@ -1,4 +1,4 @@
-package com.kata;
+package com.kata.Models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

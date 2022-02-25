@@ -1,5 +1,7 @@
-package com.kata;
+package com.kata.Controller;
 
+import com.kata.Models.Todo;
+import com.kata.Services.TodoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

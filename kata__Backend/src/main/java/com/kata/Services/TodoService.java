@@ -1,5 +1,7 @@
-package com.kata;
+package com.kata.Services;
 
+import com.kata.Models.Todo;
+import com.kata.Repository.TodoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
